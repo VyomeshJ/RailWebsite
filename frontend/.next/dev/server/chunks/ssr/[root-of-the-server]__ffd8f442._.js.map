@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/user/Documents/Papa%27s%20Work/rail/app/en/page.tsx"],"sourcesContent":["import Image from \"next/image\";\nimport { redirect } from \"next/navigation\";\n\nexport default function Home() {\n  // Redirect to English homepage\n  redirect(\"/en/home\"); // or \"/en\" if you prefer\n}\n"],"names":[],"mappings":";;;;AACA;AAAA;;AAEe,SAAS;IACtB,+BAA+B;IAC/B,IAAA,iMAAQ,EAAC,aAAa,yBAAyB;AACjD","debugId":null}}]
+}
